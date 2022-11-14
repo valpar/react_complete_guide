@@ -1,0 +1,19 @@
+453.
+1. mobile and desktop apps feel very "reactive" Things happens instantly, you dont wait for new pages to load or actions to start
+2. traditionally, in web apps, you click a link and wait for a new page to load.
+3. Javascript - every step needs to be described. imperative programming approach
+4. Reactjs uses declarative, component focused approach
+
+454.
+1. React can be used to control parts of html pages or entire pages.
+2. Widget approach on a multi page application. Some pages are still rendered on and server bu a backend server.
+3. React can also be used to control the entire frontend of a web application.
+"Single-Page-application" or SPA approach. Server only sends one HTML page, thereafter, React Takes over and controls the UI.
+
+455.
+Reactjs alternatives
+- Reactjs - lean and focused component based UI library. Certain features for example routing are added via community packages
+- Angular - Complete component based UI framework, packed with features. Uses typescript. Can be overkill for smaller projects.
+- Vuejs - complete component based ui framework, includes core features. A bit less popular than react and angular.
+
+456. 
